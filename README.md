@@ -6,28 +6,115 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 9 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [greedy](#greedy) (1)
-- [math](#math) (1)
+- [*special](#special) (1)
+- [brute force](#brute-force) (1)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [dfs and similar](#dfs-and-similar) (1)
+- [dp](#dp) (1)
+- [dsu](#dsu) (1)
+- [games](#games) (1)
+- [greedy](#greedy) (4)
+- [implementation](#implementation) (3)
+- [math](#math) (4)
+- [number theory](#number-theory) (1)
+- [sortings](#sortings) (2)
+- [strings](#strings) (2)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.java) |
+
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.java) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.java) |
+
+### dsu
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.java) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.java) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.java) |
+| 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.java) |
+| 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.java) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.java) |
+| 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.java) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.java) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.java) |
+| 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.java) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.java) |
 
 ---
 
