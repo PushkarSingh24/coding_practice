@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 13 |
+| 11 | 13 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [games](#games) (1)
 - [greedy](#greedy) (4)
 - [implementation](#implementation) (4)
-- [math](#math) (4)
+- [math](#math) (5)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (3)
@@ -95,6 +95,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.java) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.java) |
 
