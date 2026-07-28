@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 13 |
+| 17 | 13 |
 
 ---
 
@@ -19,10 +19,10 @@
 - [dp](#dp) (1)
 - [dsu](#dsu) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (5)
+- [greedy](#greedy) (6)
 - [implementation](#implementation) (9)
-- [math](#math) (6)
-- [number theory](#number-theory) (1)
+- [math](#math) (7)
+- [number theory](#number-theory) (2)
 - [sortings](#sortings) (3)
 - [strings](#strings) (5)
 
@@ -78,6 +78,7 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.java) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.java) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.java) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.java) |
@@ -104,6 +105,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/617/A%20-%20Elephant/solution.java) |
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.java) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.java) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.java) |
 
@@ -111,6 +113,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.java) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.java) |
 
 ### sortings
