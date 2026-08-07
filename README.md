@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 14 |
+| 30 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dfs and similar](#dfs-and-similar) (1)
@@ -39,6 +39,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.java) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
 | 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.java) |
 
