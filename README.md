@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 15 |
+| 38 | 15 |
 
 ---
 
@@ -14,14 +14,14 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (3)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
 - [dsu](#dsu) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (9)
+- [greedy](#greedy) (10)
 - [implementation](#implementation) (21)
 - [math](#math) (10)
 - [number theory](#number-theory) (2)
@@ -49,6 +49,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
@@ -95,6 +96,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
