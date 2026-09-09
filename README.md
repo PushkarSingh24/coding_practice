@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 15 |
+| 44 | 15 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [dsu](#dsu) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (10)
-- [implementation](#implementation) (24)
+- [implementation](#implementation) (25)
 - [math](#math) (11)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (3)
@@ -128,6 +128,7 @@
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
+| 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.java) |
