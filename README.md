@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 44 | 15 |
+| 45 | 15 |
 
 ---
 
@@ -20,11 +20,11 @@
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
 - [dsu](#dsu) (1)
-- [games](#games) (1)
+- [games](#games) (2)
 - [greedy](#greedy) (10)
 - [implementation](#implementation) (25)
-- [math](#math) (11)
-- [number theory](#number-theory) (2)
+- [math](#math) (12)
+- [number theory](#number-theory) (3)
 - [sortings](#sortings) (3)
 - [strings](#strings) (8)
 
@@ -93,6 +93,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.java) |
 
 ### greedy
@@ -152,6 +153,7 @@
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.java) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.java) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.java) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.java) |
@@ -160,6 +162,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.java) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.java) |
 
