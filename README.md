@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 45 | 15 |
+| 46 | 15 |
 
 ---
 
@@ -22,11 +22,11 @@
 - [dsu](#dsu) (1)
 - [games](#games) (2)
 - [greedy](#greedy) (10)
-- [implementation](#implementation) (25)
+- [implementation](#implementation) (26)
 - [math](#math) (12)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (3)
-- [strings](#strings) (8)
+- [strings](#strings) (9)
 
 ---
 
@@ -116,6 +116,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/59/A%20-%20Word/solution.java) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/136/A%20-%20Presents/solution.java) |
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
@@ -180,6 +181,7 @@
 |---|---------|------------|----------|
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/PushkarSingh24/coding_practice/blob/HEAD/520/A%20-%20Pangram/solution.java) |
